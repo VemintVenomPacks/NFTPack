@@ -1,0 +1,19 @@
+{  
+      "name":"VemintVentoryCollab",
+      "description":"Vemint and Ventory First Collaboration Achievment",
+      "image":"ipfs://bafybeicb7r5xk34foo627lvfqktk5gyuzypxec3aa4k27bgomphck24swu",
+      "external_url":"",
+      "attributes": [{
+                 "trait_type": "BACKGROUND",
+                 "value": "Blue Hologram"
+           },
+           {
+                 "trait_type": "Vemint",
+                 "value": "The new milestones accomplishment"
+           },
+           {
+                 "trait_type": "Ventory",
+                 "value": "No. 1 NFT Marketplace on Venom Mainnet"
+           }
+      ]
+}
