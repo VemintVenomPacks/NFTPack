@@ -1,15 +1,15 @@
 {  
       "name":"VemintVentoryCollab",
       "description":"Vemint and Ventory First Collaboration Achievment",
-      "image":"ipfs://bafybeicb7r5xk34foo627lvfqktk5gyuzypxec3aa4k27bgomphck24swu",
+      "image":"https://ipfs.io/ipfs/bafybeicb7r5xk34foo627lvfqktk5gyuzypxec3aa4k27bgomphck24swu/F2Q1zmnaIAACkMk.jpeg",
       "external_url":"",
       "attributes": [{
-                 "trait_type": "BACKGROUND",
-                 "value": "Blue Hologram"
+                 "trait_type": "Background",
+                 "value": "Chaotic Hologram"
            },
            {
                  "trait_type": "Vemint",
-                 "value": "The new milestones accomplishment"
+                 "value": "The Grand Event of Vemint Ventory"
            },
            {
                  "trait_type": "Ventory",
